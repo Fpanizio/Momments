@@ -2,6 +2,20 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.1.2.
 
+##plus
+Projeto criado através do [Curso Angular](https://www.youtube.com/watch?v=vJt_K1bFUeA&list=PLnDvRpP8Bnex2GQEN0768_AxZg_RaIGmw&index=1&ab_channel=MatheusBattisti-HoradeCodar) - Matheus Battisli.
+
+Onde foi possível aprendender a arquitetura baseada em componentes do angular e como funciona todo o fluxo de informação do angular.
+
+Para funcionar esta aplicação, é necessário uma API que funcionará como banco de dados.
+
+##Passo a passo
+
+Para fazer a aplicação rodar localmente você deve seguir esses passos:
+1- Clonar a [API](https://github.com/matheusbattisti/curso_adonis_api_yt) do repositório do git e subir a API.
+2- Para subir a API basta digitar: `node ace serve` na raiz da API.
+3- Clonar o projeto Momments e subir a aplicação.
+4- Para subir o projeto Momments basta digitar: `ng serve` na raiz do projeto
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
